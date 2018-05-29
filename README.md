@@ -1,2 +1,2 @@
 # hello-world
-CPQChatbot Repository
+CPQChatbot Repository created to explore chatbot integration with CPQ
